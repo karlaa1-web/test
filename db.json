@@ -1,7 +1,7 @@
 {
   "posts": [
-    { "Userid": 1, "id": "Post 1","title": "user1", "body": "texto del post 1" },
-    { "Userid": 2, "id": "Post 1","title": "user2", "body": "texto del post 1" },
-    {"Userid": 3, "id": "Post 1","title": "user3", "body": "texto del post 3" }
+    { "Userid": 1, "id": "Post 1","title": "hola", "body": "texto del post 1" },
+    { "Userid": 2, "id": "Post 1","title": "como", "body": "texto del post 1" },
+    {"Userid": 3, "id": "Post 1","title": "estas", "body": "texto del post 3" }
   ]
 }
