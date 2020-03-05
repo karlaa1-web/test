@@ -1,14 +1,7 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "Userid": 1, "id": "Post 1","title": "user1", "body": "texto del post 1" },
+    { "Userid": 2, "id": "Post 1","title": "user2", "body": "texto del post 1" },
+    {"Userid": 3, "id": "Post 1","title": "user3", "body": "texto del post 3" }
+  ]
 }
